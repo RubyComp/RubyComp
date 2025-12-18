@@ -1,4 +1,4 @@
-<table class="teeeeest"><tr><td valign="top" width="33%">
+<table class="teeeeest"><tr><td valign="top" width="100%">
 
 ### Main stack  
 <div align="center">
